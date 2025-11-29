@@ -5,8 +5,7 @@
 - **The goal is to transform raw banking data into actionable business insights that support decisions related to **customer risk profiling, financial product performance, and customer segmentation.**
 
 
-![image alt](https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI/blob/main/Screenshot%202025-10-29%20220520.pn)
-
+![image alt](https://github.com/pallibhavaniprasad04-ai/businessman-interacting-with-digital-banking-interface-showing-online-finance-and-investment-opportunities-with-data-graphics-photo.webp)
 # 🚨 Problem Statement
 
 - ** Banks generate large volumes of customer and transaction data, but struggle to identify risk segments, understand customer behavior, and monitor financial product usage effectively.*
