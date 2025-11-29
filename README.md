@@ -4,7 +4,6 @@
 - "This project is an end-to-end Data Analytics solution designed for the **Banking Domain**, focusing on **customer financial behavior, savings/checking patterns, risk categories, and loan insights**. The workflow includes data cleaning & EDA using Python, database design and SQL analysis in MySQL, and interactive dashboard development in Power BI."
 - **The goal is to transform raw banking data into actionable business insights that support decisions related to **customer risk profiling, financial product performance, and customer segmentation.**
 
-![image alt](https://github.com/pallibhavaniprasad04-ai/Capstone-Project-Risk-Analytics-in-Banking/blob/54817674d36c7547983a4263d70742c09d40c26f/businessman-interacting-with-digital-banking-interface-showing-online-finance-and-investment-opportunities-with-data-graphics-photo.webp)
 ![image alt](https://github.com/pallibhavaniprasad04-ai/Capstone-Project-Risk-Analytics-in-Banking/blob/8ebbc689f999965a9eb75a54442dcb427af63780/ChatGPT%20Image%20Nov%2029%2C%202025%2C%2012_43_22%20PM.png)
 
 # 🚨 Problem Statement
