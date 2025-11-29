@@ -2,15 +2,16 @@
 ## 📌 Project Overview
 
 - "This project is an end-to-end Data Analytics solution designed for the **Banking Domain**, focusing on **customer financial behavior, savings/checking patterns, risk categories, and loan insights**. The workflow includes data cleaning & EDA using Python, database design and SQL analysis in MySQL, and interactive dashboard development in Power BI."
-- **The goal is to transform raw banking data into actionable business insights that support decisions related to **customer risk profiling, financial product performance, and customer segmentation.**
+- This dataset basically contains information about bank details ,various client details which consists of multiple tables which are interlinked with each other through keys like primary key and foreign key.
+-   The various tables are Banking Relationship, Client-Banking, Gender, Investment Advisor and Period.
+
 
 ![image alt](https://github.com/pallibhavaniprasad04-ai/Capstone-Project-Risk-Analytics-in-Banking/blob/0c9d8d45dceeeca6fa63cabd35c6bcbd0470d223/Screenshot%202025-11-29%20125446.png)
 
 
 # 🚨 Problem Statement
 
-- ** Banks generate large volumes of customer and transaction data, but struggle to identify risk segments, understand customer behavior, and monitor financial product usage effectively.*
-- **Without a structured analytics pipeline, insights remain hidden in raw datasets, making it difficult to improve customer targeting, reduce risk, and support financial decisions.*
+- **Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.*
 
 # This project solves the problem by:
 
