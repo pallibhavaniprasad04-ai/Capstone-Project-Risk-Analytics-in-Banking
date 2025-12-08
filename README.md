@@ -1,7 +1,7 @@
 #  📊 End-to-End Risk-Analytics-in-Banking Project – Python | MySQL | Power BI
 ## 📌 Project Overview
 
-- "This project is an end-to-end Data Analytics solution designed for the **Banking Domain**, focusing on **customer financial behavior, savings/checking patterns, risk categories, and loan insights**. The workflow includes data cleaning & EDA using Python, database design and SQL analysis in MySQL, and interactive dashboard development in Power BI."
+- "This project is an end-to-end Data Analytics solution designed for the **Banking Domain**, focusing on **customer financial behavior, savings/checking patterns, risk categories, and loan insights**. The workflow includes data cleaning & EDA using Python, database design  and interactive dashboard development in Power BI."
 - This dataset basically contains information about bank details ,various client details which consists of multiple tables which are interlinked with each other through keys like primary key and foreign key.
 -   The various tables are Banking Relationship, Client-Banking, Gender, Investment Advisor and Period.
 
